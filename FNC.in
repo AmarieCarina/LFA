@@ -1,12 +1,20 @@
-S A B C D
-a b
-7
-S aA
-A aS
-A aB
-B bC
+S A B C D E F
+a b c d
+16
+S aABa
+S CD
+S bbAC
+A bc
+A d
+A lambda
 B lambda
-C bD
-D bB
+B E
+C A
+C dcabd
+C S
+D BAd
+D B
+E Ea
+E bbE
+F abc
 S
-5
