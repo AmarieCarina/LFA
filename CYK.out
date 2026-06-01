@@ -1,0 +1,7 @@
+DA
+Tabela CYK:
+S
+A   |   S
+B   |   A,C   |   B
+---------------------
+b   |   a   |   b
