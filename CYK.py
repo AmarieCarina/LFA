@@ -46,7 +46,7 @@ for l in range(1,n): # randul din mat
     for i in range(n-l): # coloana (matrice triunghiulara)
         for k in range(l): # punct de taiere al cuvantului
             celula_stanga = mat[k][i] # urca pe verticala
-            celula_dreapta=mat[l-k-1][i+k+1] # coboara pe diagonala (dreapta-jos)
+            celula_dreapta = mat[l-k-1][i+k+1] # coboara pe diagonala (dreapta-jos)
 
             for B in celula_stanga:
                 for C in celula_dreapta:

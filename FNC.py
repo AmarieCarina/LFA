@@ -189,7 +189,7 @@ with open("FNC.in") as f:
     accesibile=gaseste_accesibile(start_sym)
 
     # REDUCERE DICTIONAR
-    neterminale_bune =util.intersection(accesibile)
+    neterminale_bune = util.intersection(accesibile)
     if start_sym in neterminale_bune: # pt key error
         d=dictionar_redus(neterminale_bune)
 

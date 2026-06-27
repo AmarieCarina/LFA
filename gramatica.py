@@ -35,7 +35,6 @@ with open("gramatica.in") as f:
     lungime=int(f.readline())
 
 
-############## Algoritm BFS #############
 cuvinte_valide = set()
 vizitat = set()
 vizitat.add(start)
@@ -44,9 +43,7 @@ queue = [start]
 
 while queue:
     curent = queue.pop()
-
     simboluri = parse_symbols(curent, N, T)
-
     # impartire simboluri
     nr_terminale = sum(1 for s in simboluri if s in T)
     nr_neterminale = sum(1 for s in simboluri if s in N)

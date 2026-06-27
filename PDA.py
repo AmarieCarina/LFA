@@ -41,7 +41,6 @@ def simuleaza_pda():
                 if stare in F and len(stiva) == 0:
                     return True
 
-
         top_stiva = stiva[-1] if stiva else None
         simbol_citit = word[idx] if idx < len(word) else None
 #         conditii pt stiva vida
@@ -67,7 +66,7 @@ def simuleaza_pda():
                     noua_stiva.extend(reversed(list(t_push)))
                 coada.append((stare_noua, idx, noua_stiva))
     return False
-# hello
+
 
 with open("PDA.out", 'w') as g:
     if simuleaza_pda():

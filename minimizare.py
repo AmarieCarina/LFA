@@ -52,7 +52,6 @@ with open("minimizare.in") as f:
 
 ### LAMBDA NFA -> DFA
 delta2 = {}
-        # dictionarul pentru automatul DFA
 init = frozenset(lambda_closure(stare_init, delta))
         # starile de la care plecam
 queue = deque([init])
@@ -72,7 +71,7 @@ while queue:
         current_states=set()
                     #submt de stari de analizat (valorile de pe o linie din tabel)
         for state in new_states:
-            current_states|=lambda_closure(state, delta)
+            current_states |= lambda_closure(state, delta)
 
         target_state = frozenset(current_states) if current_states else dead
 
@@ -81,7 +80,6 @@ while queue:
             visited.add(target_state)
             if target_state == dead:
                 delta2[dead] = {s: dead for s in E}
-
                         # adaugam valoarea in noul dictionar
         delta2[current][sym] = target_state
 

@@ -45,7 +45,6 @@ for state in delta:
             if pair not in efa:
                 efa[pair]=current_regex
             else:
-                #print(f"Union pentru {state} -> {substate}: {efa[pair]} + {current_regex}")
                 efa[pair] = union(efa[pair], current_regex)
 
 #PAS 2 SI 3: STAREA INITIALA SI FINALA DIN AFE
@@ -67,7 +66,6 @@ for to_del in Q:
             succ.add(stare[1])
         if stare==(to_del,to_del):
             self_loop=efa[(stare[0],stare[1])]
-    # print(to_del, pred, succ, self_loop)
 
     for p in pred:
         for q in succ:
