@@ -1,4 +1,4 @@
-### Implementation & Input Processing
+## Implementation & Input Processing
 
 ---
 The logic in `DFA.py` mirrors the structure of the input file (`DFA.in`) and simulates the automaton using the following approach:
@@ -19,9 +19,9 @@ The execution path is saved dynamically during evaluation and printed to the con
 
 The alphabet ($\Sigma$) is dynamically reconstructed from the transition table keys at runtime using a dictionary comprehension.
   
----
 
-### Visual Representation of `DFA.in`, after processing
+
+## Visual Representation of `DFA.in`, after processing
 
 ---
 ```mermaid
