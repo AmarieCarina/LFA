@@ -15,7 +15,7 @@ The `verif(word)` function processes each word character by character, tracking 
 * **Bonus Tracking:** 
 
 The execution path is saved dynamically during evaluation and printed to the console for accepted words.
-  * **Alphabet Extraction:**
+  * **Transitions Path**:
 
 The alphabet ($\Sigma$) is dynamically reconstructed from the transition table keys at runtime using a dictionary comprehension.
   
