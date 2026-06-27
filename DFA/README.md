@@ -1,6 +1,6 @@
 ## Implementation & Input Processing
 
----
+
 The logic in `DFA.py` mirrors the structure of the input file (`DFA.in`) and simulates the automaton using the following approach:
 
 * **Data Parsing:** 
@@ -23,7 +23,7 @@ The alphabet ($\Sigma$) is dynamically reconstructed from the transition table k
 
 ## Visual Representation of `DFA.in`, after processing
 
----
+
 ```mermaid
 graph LR
     q1((q1))
