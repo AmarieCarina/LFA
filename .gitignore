@@ -1,0 +1,17 @@
+# Ignoră folderul de configurare intern al PyCharm
+.idea/
+
+# Ignoră fișierele cache generate automat de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignoră mediile virtuale (dacă folosești venv)
+venv/
+.venv/
+env/
+
+# Ignoră fișierele de sistem (opțional)
+.DS_Store
+Thumbs.db
