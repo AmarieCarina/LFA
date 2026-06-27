@@ -1,6 +1,6 @@
 ## Implementation & Input Processing
 
----
+
 The logic in `NFA.py` mirrors the structure of the input file (`NFA.in`) and simulates the automaton using the following approach:
 
 * **Data Parsing:** 
@@ -17,7 +17,7 @@ The alphabet ($\Sigma$) is dynamically reconstructed from the transition table k
 
 ## Visual Representation of `NFA.in`, after processing
 
----
+
 ```mermaid
 graph LR
     q1((q1))
