@@ -1,10 +1,18 @@
-##  LFA 2026 
-**Student**: Amarie Elena Carina, gr. 132
-* **Programming Language**: Python
-* **IDE used**: Pycharm
 
-### Project Requirements: 
-1. **DFA Implementation**
+<h1 align="center"> Formal Languages and Automata </h1>
+
+> This repository contains a comprehensive suite of **simulators** and **converters** for **finite automata**, **grammars**, and **formal languages**.
+
+**Student**: Amarie Elena Carina, gr. 132 (2026)
+
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=blue) 
+![PyCharm](https://img.shields.io/badge/IDE-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white&color=blue)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square) 
+
+
+
+### Contents: 
+1. **DFA Implementation**[]
    * folder: `DFA`
    * corresponding files: `DFA.py` `DFA.in` `DFA.out`
    
@@ -17,12 +25,14 @@
 5. **bonus: display transitions**
    * in file: `DFA.py`
 ---
-1. **Conversion of lambda-NFA to minimum DFA**
-   * in files: `minimizare.py` `minimizare.in` `minimizare.out`
-2. **Conversion of lambda-NFA to RegEx**
-   * in files: `RegEx.py` `RegEx.in` `RegEx.out`
-3. **Generation of all words of a fixed length, using a given grammar**
-    * in files: `gramatica.py` `gramatica.in` `gramatica.out`
+1. [**Conversion of lambda-NFA to minimum DFA**](https://github.com/AmarieCarina/LFA2/tree/master/minimization)
+   
+
+2. [**Conversion of lambda-NFA to RegEx**](https://github.com/AmarieCarina/LFA2/tree/master/RegEx)
+
+
+3. [**Generation of all words of a fixed length, using a given grammar**](https://github.com/AmarieCarina/LFA2/tree/master/grammar)
+
 ---
 4. **PDA Simulator**
    * in files: `PDA.py` `PDA.in` `PDA.out`
