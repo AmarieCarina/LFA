@@ -12,31 +12,29 @@
 
 
 ### Contents: 
-1. **DFA Implementation**[]
-   * folder: `DFA`
-   * corresponding files: `DFA.py` `DFA.in` `DFA.out`
-   
-2. **NFA implementation**
-   * corresponding files: `NFA.py` `NFA.in` `NFA.out`
-3. **lambda-NFA implementation**
-   * corresponding files: `yNFA.py` `yNFA.in` `yNFA.out`
-4. **bonus: display alphabet**
-   * in files: `DFA.py` `NFA.py` `yNFA.py`
-5. **bonus: display transitions**
-   * in file: `DFA.py`
----
-1. [**Conversion of lambda-NFA to minimum DFA**](https://github.com/AmarieCarina/LFA2/tree/master/minimization)
-   
-
-2. [**Conversion of lambda-NFA to RegEx**](https://github.com/AmarieCarina/LFA2/tree/master/RegEx)
+1. [**DFA Implementation**](https://github.com/AmarieCarina/LFA2/tree/master/DFA)
 
 
-3. [**Generation of all words of a fixed length, using a given grammar**](https://github.com/AmarieCarina/LFA2/tree/master/grammar)
+2. [**NFA implementation**](https://github.com/AmarieCarina/LFA2/tree/master/NFA)
+
+
+3. [**lambda-NFA implementation**](https://github.com/AmarieCarina/LFA2/tree/master/lambdaNFA)
+  
 
 ---
-4. **PDA Simulator**
-   * in files: `PDA.py` `PDA.in` `PDA.out`
-5. **Conversion of a grammar to Chomsky Normal Form**
-   * in files: `FNC.py` `FNC.in` `FNC.out`
-6. **Cocke-Younger-Kasami Algorithm**
-   * in files `CYK.py` `CYK.in` `CYK.out`
+4. [**Conversion of lambda-NFA to minimum DFA**](https://github.com/AmarieCarina/LFA2/tree/master/minimization)
+   
+
+5. [**Conversion of lambda-NFA to RegEx**](https://github.com/AmarieCarina/LFA2/tree/master/RegEx)
+
+
+6. [**Generation of all words of a fixed length, using a given grammar**](https://github.com/AmarieCarina/LFA2/tree/master/grammar)
+
+---
+7. [**PDA Simulator**](https://github.com/AmarieCarina/LFA2/tree/master/PDA)
+ 
+
+8. [**Conversion of a grammar to Chomsky Normal Form**](https://github.com/AmarieCarina/LFA2/tree/master/FNC)
+   
+
+9. [**Cocke-Younger-Kasami Algorithm**](https://github.com/AmarieCarina/LFA2/tree/master/CYK)
