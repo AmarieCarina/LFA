@@ -17,7 +17,7 @@
 
 2. [**NFA implementation**](NFA)
 
-
+[![Open Code](https://img.shields.io/badge/DFA_Implementation-black?style=for-the-badge&logo=github)](src)
 3. [**lambda-NFA implementation**](lambdaNFA)
   
 
