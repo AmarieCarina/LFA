@@ -12,29 +12,29 @@
 
 
 ### Contents: 
-1. [**DFA Implementation**](https://github.com/AmarieCarina/LFA2/tree/master/DFA)
+1. [**DFA Implementation**](DFA)
 
 
-2. [**NFA implementation**](https://github.com/AmarieCarina/LFA2/tree/master/NFA)
+2. [**NFA implementation**](NFA)
 
 
-3. [**lambda-NFA implementation**](https://github.com/AmarieCarina/LFA2/tree/master/lambdaNFA)
+3. [**lambda-NFA implementation**](lambdaNFA)
   
 
 ---
-4. [**Conversion of lambda-NFA to minimum DFA**](https://github.com/AmarieCarina/LFA2/tree/master/minimization)
+4. [**Conversion of lambda-NFA to minimum DFA**](minimization)
    
 
-5. [**Conversion of lambda-NFA to RegEx**](https://github.com/AmarieCarina/LFA2/tree/master/RegEx)
+5. [**Conversion of lambda-NFA to RegEx**](RegEx)
 
 
-6. [**Generation of all words of a fixed length, using a given grammar**](https://github.com/AmarieCarina/LFA2/tree/master/grammar)
+6. [**Generation of all words of a fixed length, using a given grammar**](grammar)
 
 ---
-7. [**PDA Simulator**](https://github.com/AmarieCarina/LFA2/tree/master/PDA)
+7. [**PDA Simulator**](PDA)
  
 
-8. [**Conversion of a grammar to Chomsky Normal Form**](https://github.com/AmarieCarina/LFA2/tree/master/FNC)
+8. [**Conversion of a grammar to Chomsky Normal Form**](FNC)
    
 
-9. [**Cocke-Younger-Kasami Algorithm**](https://github.com/AmarieCarina/LFA2/tree/master/CYK)
+9. [**Cocke-Younger-Kasami Algorithm**](CYK)
