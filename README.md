@@ -5,8 +5,8 @@
 
 **Student**: Amarie Elena Carina, gr. 132 (2026)
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=blue) 
-![PyCharm](https://img.shields.io/badge/IDE-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white&color=blue)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=blue) &nbsp;&nbsp;
+![PyCharm](https://img.shields.io/badge/IDE-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white&color=blue)&nbsp;&nbsp;
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square) 
 
 
