@@ -1,7 +1,7 @@
 ## Implementation & Input Processing
 
 
-The logic in `LNFA.py` mirrors the structure of the input file (`yNFA.in`) and simulates the $\lambda$-NFA using the following approach:
+The logic in `yNFA.py` mirrors the structure of the input file (`yNFA.in`) and simulates the $\lambda$-NFA using the following approach:
 
 * **Data Parsing:** 
 

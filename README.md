@@ -12,29 +12,29 @@
 
 
 ### Contents: 
-1. [**DFA Implementation**](DFA)
+1. [DFA Implementation](DFA)
 
 
-2. [**NFA implementation**](NFA)
+2. [NFA implementation](NFA)
 
 
-3. [**lambda-NFA implementation**](lambdaNFA)
+3. [lambda-NFA implementation](lambdaNFA)
   
 
 ---
-4. [**Conversion of lambda-NFA to minimum DFA**](minimization)
+4. [Conversion of lambda-NFA to minimum DFA](minimization)
    
 
-5. [**Conversion of lambda-NFA to RegEx**](RegEx)
+5. [Conversion of lambda-NFA to RegEx](RegEx)
 
 
-6. [**Generation of all words of a fixed length, using a given grammar**](grammar)
+6. [Generation of all words of a fixed length, using a given grammar](grammar)
 
 ---
-7. [**PDA Simulator**](PDA)
+7. [PDA Simulator](PDA)
  
 
-8. [**Conversion of a grammar to Chomsky Normal Form**](FNC)
+8. [Conversion of a grammar to Chomsky Normal Form](FNC)
    
 
-9. [**Cocke-Younger-Kasami Algorithm**](CYK)
+9. [Cocke-Younger-Kasami Algorithm](CYK)
